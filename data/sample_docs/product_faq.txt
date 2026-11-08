@@ -1,0 +1,28 @@
+Acme Insight - Product FAQ (fictional sample document)
+
+What is Acme Insight?
+Acme Insight is a cloud-based analytics platform that lets operations teams build dashboards from their business data without writing code. It connects to common data sources and refreshes dashboards automatically.
+
+Which pricing plans are available?
+There are three plans. Starter costs 29 EUR per user per month and includes up to 5 dashboards and daily data refresh. Professional costs 79 EUR per user per month and includes unlimited dashboards, hourly refresh and scheduled email reports. Enterprise pricing is custom and adds single sign-on (SSO), audit logs, a dedicated customer success manager and a 99.95 percent uptime SLA. Annual billing gives a 15 percent discount on Starter and Professional.
+
+Is there a free trial?
+Yes. Every new workspace gets a 14-day free trial of the Professional plan. No credit card is required to start the trial.
+
+Which data sources are supported?
+Acme Insight connects to PostgreSQL, MySQL, Microsoft SQL Server, Google BigQuery, Snowflake, CSV and Excel uploads, and Google Sheets. A REST API connector is available on Professional and Enterprise plans. Native Salesforce and HubSpot connectors are planned but not yet available.
+
+What uptime do you guarantee?
+The standard service level agreement guarantees 99.9 percent monthly uptime for Starter and Professional. Enterprise customers receive 99.95 percent. If uptime falls below the guarantee, customers receive service credits on their next invoice.
+
+Where is customer data stored?
+All customer data is hosted in data centres in Frankfurt, Germany, and never leaves the European Union. Data is encrypted in transit with TLS 1.2 or higher and at rest with AES-256.
+
+How long is data retained after cancellation?
+After a subscription is cancelled, workspace data is kept for 30 days so it can be exported or restored. After 30 days it is permanently deleted, and backups are purged within a further 60 days.
+
+How do I contact support?
+Starter customers get email support with a response time of one business day. Professional customers get email and chat support with a four-hour response time during business hours. Enterprise customers additionally get a 24/7 phone line for critical incidents.
+
+Can I export my dashboards?
+Dashboards can be exported as PDF or PNG on all plans. Raw data behind any chart can be downloaded as CSV.
